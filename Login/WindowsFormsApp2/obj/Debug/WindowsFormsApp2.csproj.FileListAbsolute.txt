@@ -1,0 +1,10 @@
+C:\Users\rafae\source\repos\Login\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\rafae\source\repos\Login\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\rafae\source\repos\Login\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\rafae\source\repos\Login\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\Login\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\rafae\source\repos\Login\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\rafae\source\repos\Login\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Login\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\rafae\source\repos\Login\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\rafae\source\repos\Login\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmPrincipal.resources
